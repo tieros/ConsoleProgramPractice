@@ -1,0 +1,15 @@
+C:\Users\asus\desktop\.NET\ConsoleProgramPractice\bin\Debug\net6.0\ConsoleProgramPractice.exe
+C:\Users\asus\desktop\.NET\ConsoleProgramPractice\bin\Debug\net6.0\ConsoleProgramPractice.deps.json
+C:\Users\asus\desktop\.NET\ConsoleProgramPractice\bin\Debug\net6.0\ConsoleProgramPractice.runtimeconfig.json
+C:\Users\asus\desktop\.NET\ConsoleProgramPractice\bin\Debug\net6.0\ConsoleProgramPractice.dll
+C:\Users\asus\desktop\.NET\ConsoleProgramPractice\bin\Debug\net6.0\ref\ConsoleProgramPractice.dll
+C:\Users\asus\desktop\.NET\ConsoleProgramPractice\bin\Debug\net6.0\ConsoleProgramPractice.pdb
+C:\Users\asus\desktop\.NET\ConsoleProgramPractice\obj\Debug\net6.0\ConsoleProgramPractice.csproj.AssemblyReference.cache
+C:\Users\asus\desktop\.NET\ConsoleProgramPractice\obj\Debug\net6.0\ConsoleProgramPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\desktop\.NET\ConsoleProgramPractice\obj\Debug\net6.0\ConsoleProgramPractice.AssemblyInfoInputs.cache
+C:\Users\asus\desktop\.NET\ConsoleProgramPractice\obj\Debug\net6.0\ConsoleProgramPractice.AssemblyInfo.cs
+C:\Users\asus\desktop\.NET\ConsoleProgramPractice\obj\Debug\net6.0\ConsoleProgramPractice.csproj.CoreCompileInputs.cache
+C:\Users\asus\desktop\.NET\ConsoleProgramPractice\obj\Debug\net6.0\ConsoleProgramPractice.dll
+C:\Users\asus\desktop\.NET\ConsoleProgramPractice\obj\Debug\net6.0\ref\ConsoleProgramPractice.dll
+C:\Users\asus\desktop\.NET\ConsoleProgramPractice\obj\Debug\net6.0\ConsoleProgramPractice.pdb
+C:\Users\asus\desktop\.NET\ConsoleProgramPractice\obj\Debug\net6.0\ConsoleProgramPractice.genruntimeconfig.cache
